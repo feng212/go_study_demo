@@ -1,5 +1,5 @@
 ---
-typora-root-url: images
+typora-copy-images-to: images
 ---
 
 # go_study_demo
@@ -9,7 +9,7 @@ go学习笔记
 
 go语言高并发和微服务实战
 
-![](go学习思维导图.png)
+![](images/go学习思维导图.png)
 
 ## go语言基础
 
