@@ -138,7 +138,7 @@ git add name 指定文件到暂存区，name包括文件类型
 ### 6.commit 提交暂存到本地仓库
 
 ```
-git commit -m 描述
+git commit -m 描述（每次描述信息要不同）
 ```
 
 ### 7.push 提交到远程仓库
@@ -157,3 +157,62 @@ git push remote_name branch_name
 git pull <远程主机名> <远程分支名>:<本地分支名>
 ```
 
+
+
+
+
+分支信息：
+
+![image-20220508215503555](images/image-20220508215503555.png)
+
+
+
+status:
+
+![image-20220508215646124](images/image-20220508215646124.png)
+
+add到暂存区：
+
+![image-20220508215732516](images/image-20220508215732516.png)
+
+commit保存到本地仓库：
+
+![image-20220508215843054](images/image-20220508215843054.png)
+
+分支与远程仓库：
+
+![image-20220508220309826](images/image-20220508220309826.png)
+
+push:
+
+![image-20220508220342869](images/image-20220508220342869.png)
+
+
+
+github和gitee可同步管理项目：
+
+![image-20220508220558774](images/image-20220508220558774.png)
+
+github更新信息后gitee更新：
+
+按如下按钮
+
+![image-20220508220711847](images/image-20220508220711847.png)
+
+commit -m 的描述
+
+![image-20220508220821878](images/image-20220508220821878.png)
+
+分支主分支或其他分支合并：
+
+![image-20220508221111925](images/image-20220508221111925.png)
+
+查看文件区别与合并：
+
+![image-20220508221310383](images/image-20220508221310383.png)
+
+![image-20220508221403444](images/image-20220508221403444.png)
+
+关闭合并：
+
+![image-20220508221606937](images/image-20220508221606937.png)
